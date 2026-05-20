@@ -64,6 +64,17 @@ Core logic lives in `bibliometric_analysis/` including `dashboard/` (Streamlit h
 
 See `docs/upgrade_roadmap_to_90.md`, `TECHNICAL_MANUAL.md`, and `docs/export_schema.md`.
 
-## License
+## Legal and citation
 
-MIT — see [LICENSE](LICENSE).
+| File | Purpose |
+|------|---------|
+| **[NOTICE.md](NOTICE.md)** | Copyright and use terms (proprietary; no open-source licence granted). |
+| **[CITATION.cff](CITATION.cff)** | Citation metadata for software recognition. |
+
+## Acknowledgements
+
+This project was developed by **Luís Raimundo** with the support and funding of the **Fundação para a Ciência e a Tecnologia (FCT)** and **Universidade NOVA de Lisboa**.
+
+**Funding DOI:** [https://doi.org/10.54499/2020.08817.BD](https://doi.org/10.54499/2020.08817.BD)
+
+The author also gratefully acknowledges **Isabel Pires** for her support throughout the development of this work.

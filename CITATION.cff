@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Bibliometric Analysis System"
+message: >-
+  If you use this software in academic or research work, please cite it using
+  the metadata below and acknowledge the funding source where applicable.
+type: software
+authors:
+  - family-names: Raimundo
+    given-names: Luís
+    orcid: https://orcid.org/0000-0003-1712-6358
+    email: lmr.2020@outlook.pt
+version: 16.0.0
+date-released: 2026-05-20
+url: https://github.com/LuisMRaimundo/Bibliometrics
+repository-code: https://github.com/LuisMRaimundo/Bibliometrics
+abstract: >-
+  Bibliometric/scientometric research software with OpenAlex-based normalization,
+  percentile indicators (MNCS/cf, PP top), network analysis, entity enrichment,
+  and semantic tooling. Not validated against commercial analytics platforms.
+keywords:
+  - bibliometrics
+  - scientometrics
+  - openalex
+  - citation-analysis
+  - research-software
+  - network-analysis
+preferred-citation: >-
+  Raimundo, L. (2026). Bibliometric Analysis System (v16.0.0) [Computer software].
+  GitHub. https://github.com/LuisMRaimundo/Bibliometrics

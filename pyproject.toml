@@ -8,8 +8,7 @@ version = "16.0.0"
 description = "Bibliometric/scientometric research software with OpenAlex-based normalization"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
-authors = [{ name = "Bibliometric Analysis Team" }]
+authors = [{ name = "Luís Raimundo", email = "lmr.2020@outlook.pt" }]
 keywords = ["bibliometrics", "scientometrics", "openalex", "citations"]
 classifiers = [
     "Development Status :: 4 - Beta",
