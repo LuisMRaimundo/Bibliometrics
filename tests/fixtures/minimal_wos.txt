@@ -1,0 +1,18 @@
+ER
+
+PT J
+AU Smith, J
+TI Sample Paper One
+SO Journal A
+PY 2020
+DI 10.1000/test.wos1
+CR 10.1000/test.wos2
+ER
+
+PT J
+AU Doe, A
+TI Second Paper
+SO Journal B
+PY 2021
+DI 10.1000/test.wos2
+ER

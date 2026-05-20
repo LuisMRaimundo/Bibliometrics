@@ -1,0 +1,4 @@
+id,title,doi,publication_year,cited_by_count,is_retracted,referenced_works
+https://openalex.org/W1,Paper A,https://doi.org/10.1000/e2e.a,2020,10,false,"[]"
+https://openalex.org/W2,Paper B,https://doi.org/10.1000/e2e.b,2020,4,false,"[]"
+https://openalex.org/W3,Paper C,https://doi.org/10.1000/e2e.c,2021,20,false,"[]"

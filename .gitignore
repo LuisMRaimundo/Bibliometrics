@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Test / lint / coverage
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+
+# User outputs (generated at runtime)
+*_metrics_pro.xlsx
+authors.csv
+institutions.csv
+authorships.csv
+openalex_as_scopus.csv
+*.html
+!docs/**/*.html
+
+# Local caches (if copied into project)
+.openalex_cache/
+*.sqlite3
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Large / local-only assets (not needed on GitHub)
+*.docx
+~$*
+*.zip
+*.pdf
+para correr*.txt
+scritos*.zip

@@ -1,0 +1,21 @@
+{
+  "id": "https://openalex.org/W99",
+  "doi": "https://doi.org/10.1000/test.enrich1",
+  "authorships": [
+    {
+      "author": {
+        "id": "https://openalex.org/A1",
+        "display_name": "Alice Smith",
+        "orcid": "https://orcid.org/0000-0001-2345-6789"
+      },
+      "institutions": [
+        {
+          "ror": "https://ror.org/012345",
+          "display_name": "Test University",
+          "country_code": "PT",
+          "type": "education"
+        }
+      ]
+    }
+  ]
+}

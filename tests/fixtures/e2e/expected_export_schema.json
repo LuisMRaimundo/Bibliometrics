@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "required_sheets": [
+    "Records+Metrics",
+    "Edges",
+    "Network Metrics",
+    "Summary (integer)",
+    "Summary (fractional)",
+    "Global Dist/Thresholds",
+    "Run Metadata"
+  ],
+  "records_columns": [
+    "doi",
+    "title",
+    "year",
+    "c_use",
+    "cf",
+    "PPg_top25",
+    "PPg_top10",
+    "PPg_top1",
+    "domain_id",
+    "domain_label"
+  ],
+  "metadata_keys": [
+    "software_version",
+    "input_file_hash",
+    "config_hash",
+    "config.baseline_mode",
+    "config.ties_policy",
+    "config.quantile_method",
+    "config.k_window",
+    "config.self_citation_excluded",
+    "config.retractions_excluded",
+    "config.concept_level",
+    "config.crosswalk_status"
+  ]
+}

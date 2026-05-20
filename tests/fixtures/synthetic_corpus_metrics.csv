@@ -1,0 +1,5 @@
+domain_id,year,c_use,c0_mean,thr_top25,thr_top10,thr_top1,c0_n,c0_complete,c0_counts_json
+C1,2020,10,5,8,9,15,100,True,""
+C1,2020,4,5,8,9,15,100,True,""
+C1,2020,20,5,8,9,15,100,True,""
+C2,2021,2,1,1,2,5,50,True,""

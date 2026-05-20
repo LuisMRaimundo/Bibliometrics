@@ -1,0 +1,7 @@
+level,description,notes
+0,OpenAlex concept level 0 (broad domain),Schema only — not populated with concept IDs
+1,OpenAlex concept level 1,Default domain level in main engine
+2,OpenAlex concept level 2,Finer-grained field
+3,OpenAlex concept level 3,Sub-field
+4,OpenAlex concept level 4,Specialized topic
+5,OpenAlex concept level 5,Most specific topic
